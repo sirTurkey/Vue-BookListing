@@ -17,7 +17,7 @@ export default {
             books: [
                 {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
                 {title: 'American Gods', author: 'Neil Gaiman'},
-                {title: 'Amusing ourselves to Death', author: 'Neil Postman'}
+                {title: 'Amusing Ourselves to Death', author: 'Neil Postman'}
             ]
         }
     }
@@ -31,8 +31,5 @@ export default {
         list-style-type: none;
         padding: 0;
     }
-    li{
-        display: block;
-        margin: 0 10px;
-    }
+
 </style>
